@@ -1,4 +1,4 @@
 
 dynamic-calendar readme file
 
-Kris, was this yan idea yours or based off my task-bumping calendar idea?
+Kris, was this your idea yours or based off my task-bumping calendar idea?
